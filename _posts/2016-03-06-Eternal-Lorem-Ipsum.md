@@ -3,6 +3,7 @@
 ---
 layout: 01------New world
 title: 仔仔7岁生日------点火蛋糕怒放愿望
+
 author: Author Name
 ---
 亲爱的仔仔：
