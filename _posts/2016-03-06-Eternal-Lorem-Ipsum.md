@@ -1,15 +1,45 @@
 ---
-layout: post
-title: The Eternal Lorem Ipsum Placeholder Text Here
+layout: 01------New world
+title: 仔仔7岁生日------点火蛋糕怒放愿望
 author: Author Name
 ---
+亲爱的仔仔：
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. 
+7月16号，终于等到啦，热切盼望了365天，点火蛋糕怒放心愿，再种下一棵生命树，用肆意的24小时狂欢。
 
-## The Eternal Lorem Ipsum? 
------
+今天的杭州在下雨，并不妨碍你的欢乐如雪，你说你要睡个大大的懒觉，却在七点准时醒来------这是我每天叫醒你锻炼的时间点，你已习惯成自然。拥抱你，跟你说生日快乐，宝贝！
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. 
+你说你要去吃个自助餐，喝杯果汁，体验最爱陪伴-------我们笑话你怎么没有大大心愿，人不疯狂枉少年哎~~
 
-Nam maximus tempor feugiat. Mauris tristique imperdiet nulla id egestas. Proin eget lobortis magna. Duis consectetur nibh at elit viverra congue. Ut eu turpis enim. Suspendisse laoreet, diam sed consequat sodales, felis dolor accumsan justo, nec scelerisque mi sem quis dolor. Etiam ornare venenatis massa, a suscipit ex. Ut quis lectus id nibh mattis rutrum. Nunc vel cursus eros, at blandit mi. Vivamus ac posuere libero.
+你说你要自己挑选一棵树，种在花园里，从此有了长情陪伴；
 
+你说你要许个心愿，谁都不知道的秘密心愿--------祝你愿望早早实现，亲爱的；
+
+五天前，幼儿园的毕业典礼让你与小伙伴挥手告别，你穿着白衬衫，戴着小领结，搭配条纹裤，黑皮鞋，脸上画着淡淡的妆。你用稚嫩的声音在舞台上朗诵着诗歌跟朋友们回味走过的童年-------大家都说，真不想离开幼儿园；是啊，那里承载着你们当下最美好的记忆，最纯粹的时光，最自由的童年......
+
+大屏幕里是你的集锦照片，回望着玩过去的700天；灯光下，你恭敬的接过园长颁发的毕业证书，迎着光，帅气的走过红毯-------这是你人生第一张毕业证书，从童年的快乐里毕业，从幻想的梦境里毕业，从个性的成长里毕业，这恰恰不是结束，而是真正的开始。
+
+与童年挥手告别，生命站在了少年门前，你要背上书包，踏入知识圈，提着你的好奇心，抗着你的认真、勇敢，走进下一个七年-------文字精灵在生命的路口等你，带领你飞进奇妙的文字王国，那里有专属于你的宝藏，有独属于你的精神世界-------在你孤单时，给你陪伴；在你成长时，给你心安；在你迷茫时，给你答案。
+
+妈妈能送你的礼物，就是一架架好书，在文字王国开缰扩土，能让你纵情驰骋其间。阅读好书，当你需要做决定做选择的那一刻，会有超一流大师为你指点，你能感受到生命把握在自己手中的自信，你能坚定走向自己选择的路，不管是少有人走的小道，还是大家踊跃的独木桥，你都可以独立坚持，做自己。
+
+妈妈陪伴你走过此七年，再走向彼七年，等到第三个七年，你已经开始展翅高飞，我们能够一起走过的时光，短暂到只剩下一辈子------值得珍惜；而你至少有七辈子要自己一个人走，所以，你必须健康、你必须学习。
+
+\*你要学会爱-------先爱自己，再爱家人、朋友、同学、同事；
+
+\*你要学会勇敢--------去探索一切未知，世界已经知道而你不知道的，世界不知道，你也不知道的；
+
+\*你要学会运动------迈开腿，没有健康的身体，你会带着遗憾，只能眼睁睁看着别人精彩，世界是你的，要主动参与，而不是旁观；
+
+\*你要学会饮食------管住嘴，认真对待自己的五脏六腑，你才能长久的活着，生命是场马拉松，坚持到最后才能战胜时间带来的摧残；
+
+\*你要学会如何才能财务自由------拥有财务自由，才能选择自由，不想做的不做，想做的即刻动身；
+
+\*你要学会学习------人生是竞技场，生命有涯，而知识无涯，知道自己不知道是成长的起点；会学习，能让你一直保持好奇心，能让你拥有啊哈的瞬间，能让你持久的自带光芒------智慧的光芒，不仅照亮自己，也会照亮他人------这会是你生命意义的一部分；
+
+哎呀呀，一写起来就忘记时间，就不想停下，让千言万语汇成一句话：带你疯去啦~~啊哈哈哈......
+
+祝你生日快乐，快乐，快乐！
+
+爱你的妈妈
+2016.7.16悦西溪
