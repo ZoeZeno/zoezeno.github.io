@@ -16,9 +16,6 @@ permalink: /about/
 * 创过业.
 * 用另类的方式实现了财务自由.
 
-## Roles
-
-Founder, ABC Organisation
 
 ## Skills
 
@@ -28,3 +25,6 @@ Founder, ABC Organisation
 * **Skill 4** - `会Keynote` / `能演讲` /
 * **Skill 5** - `会GitHub`/`能搭Blog`/
 * **Skill 6** - `会Markdown` / `能写作`/
+
+
+##欢迎勾搭~~ZoeZeno
