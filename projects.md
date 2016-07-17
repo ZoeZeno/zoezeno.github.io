@@ -29,4 +29,4 @@ Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulu
 
 ## Contact me
 
-[email](zoe.wu@ishowi.com)
+[email](mailto:zoe.wu@ishowi.com)
